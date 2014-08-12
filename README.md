@@ -1,0 +1,4 @@
+MyTestRepo
+==========
+
+All or nothing
